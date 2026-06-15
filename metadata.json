@@ -1,0 +1,6 @@
+{
+  "name": "YouTube SEO Optimizer & Tracker",
+  "description": "Platform optimasi SEO YouTube, pelacakan kompetisi kata kunci rendah, penganalisis video Short, dan pemantau analitik performa konten real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
